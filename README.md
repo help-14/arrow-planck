@@ -1,5 +1,5 @@
 # Arrow Planck
-RGB Planck with arrow keys. This is a edited version of regack's DrunkPlanck.
+RGB Planck with arrow keys. This is a edited version of [regack's DrunkPlanck](https://geekhack.org/index.php?topic=79929.0).
 
 ![Layout](http://i.imgur.com/MtriIIh.jpg)
 
