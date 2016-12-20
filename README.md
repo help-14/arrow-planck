@@ -6,6 +6,11 @@ This should fit with all kind of case for planck.
 
 ##Layout
 
+Support 2 arrow keys layout and three space keys layout.
+
+
+![Arrow key layout](http://i.imgur.com/dzLO4cJ.png)
+
 [Layout 1](http://www.keyboard-layout-editor.com/#/gists/1d069f35c259fc881293490941ea733b)
 
 ![Layout 1](http://i.imgur.com/qXwxC2A.jpg)
