@@ -1,4 +1,4 @@
-# Arrow Planck
+# RGB Planck
 RGB Planck with arrow keys. This is a edited version of [regack's DrunkPlanck](https://geekhack.org/index.php?topic=79929.0) rev 0.6.
 
 This should fit with all kind of case for planck.
